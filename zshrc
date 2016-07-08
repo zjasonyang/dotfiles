@@ -85,3 +85,5 @@ source ~/.git-prompt.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+alias sshec2="ssh ubuntu@52.196.248.28 -i ~/.ssh/geekroar.pem"
+alias sshhomepc='ssh 114.32.125.63 -p 1022 -l zjason'
